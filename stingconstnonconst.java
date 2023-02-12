@@ -15,3 +15,5 @@ public class Constant_Pool_and_Non_Constant_Pool {
  System.out.println(str4 + str4.hashCode());
  System.out.println(str5 + str5.hashCode());
  System.out.println(str6 + str6.hashCode());
+ }
+}
